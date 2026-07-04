@@ -1,0 +1,13 @@
+{
+  "name": "poyo-seedance-2-express-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node --check server.mjs"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

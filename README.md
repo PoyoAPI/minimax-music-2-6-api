@@ -9,7 +9,7 @@ Focused server-side examples for building music generation workflows with MiniMa
 
 MiniMax Music 2.6 is useful for creator tools that need background music drafts, short campaign audio, instrumental loops, or audio concepts before polishing.
 
-[Model Page](https://poyo.ai/models/minimax-music-2-6) | [Docs](https://docs.poyo.ai/api-manual/music-series/minimax-music-2.6) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
+[Try on PoYo](https://poyo.ai/models/minimax-music-2-6) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Docs](https://docs.poyo.ai/api-manual/music-series/minimax-music-2.6) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
 
 ## What This Repo Covers
 
